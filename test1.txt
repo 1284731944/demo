@@ -6,3 +6,4 @@
 99999999
 end to modify test1.txt
 888
+0000
